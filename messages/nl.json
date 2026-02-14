@@ -1,0 +1,206 @@
+{
+  "common": {
+    "appName": "Jouw App",
+    "welcome": "Welkom",
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Succes",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "close": "Sluiten",
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "sort": "Sorteren",
+    "back": "Terug",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "submit": "Verzenden",
+    "confirm": "Bevestigen"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "pricing": "Prijzen",
+    "about": "Over ons",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "logout": "Uitloggen",
+    "profile": "Profiel",
+    "settings": "Instellingen"
+  },
+  "auth": {
+    "login": {
+      "title": "Meld aan op je account",
+      "subtitle": "Voer je e-mail en wachtwoord in om toegang te krijgen",
+      "email": "E-mail",
+      "emailPlaceholder": "Voer je e-mailadres in",
+      "password": "Wachtwoord",
+      "passwordPlaceholder": "Voer je wachtwoord in",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "noAccount": "Heb je geen account?",
+      "signUp": "Registreren",
+      "signInButton": "Aanmelden",
+      "rememberMe": "Onthoud mij"
+    },
+    "signup": {
+      "title": "Maak een nieuw account",
+      "subtitle": "Het is gratis en duurt minder dan een minuut",
+      "name": "Volledige naam",
+      "namePlaceholder": "Voer je volledige naam in",
+      "email": "E-mail",
+      "emailPlaceholder": "Voer je e-mailadres in",
+      "password": "Wachtwoord",
+      "passwordPlaceholder": "Maak een wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "passwordHint": "Minimaal 8 tekens",
+      "hasAccount": "Heb je al een account?",
+      "signIn": "Inloggen",
+      "agreeTerms": "Ik ga akkoord met",
+      "terms": "Gebruiksvoorwaarden",
+      "and": "en",
+      "privacy": "Privacybeleid"
+    },
+    "errors": {
+      "invalidCredentials": "Ongeldige e-mail of wachtwoord",
+      "emailExists": "Er bestaat al een account met dit e-mailadres",
+      "weakPassword": "Wachtwoord is te zwak",
+      "passwordMismatch": "Wachtwoorden komen niet overeen",
+      "verificationRequired": "E-mailverificatie vereist"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welkom terug",
+    "stats": {
+      "title": "Overzicht",
+      "activeUsers": "Actieve gebruikers",
+      "revenue": "Omzet",
+      "subscriptions": "Abonnementen",
+      "growth": "Groei"
+    }
+  },
+  "pricing": {
+    "title": "Simpele, transparante prijzen",
+    "subtitle": "Kies het plan dat voor jou werkt",
+    "monthly": "Maandelijks",
+    "yearly": "Jaarlijks",
+    "save": "Bespaar 20%",
+    "plans": {
+      "free": {
+        "name": "Gratis",
+        "price": "€0",
+        "period": "voor altijd",
+        "description": "Voor individuen die beginnen",
+        "features": [
+          "1 project",
+          "Basisfuncties",
+          "Community-ondersteuning"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "€29",
+        "period": "per maand",
+        "description": "Voor professionals en kleine teams",
+        "features": [
+          "Onbeperkte projecten",
+          "Alle functies",
+          "Prioriteitsondersteuning",
+          "Geavanceerde analyses"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Op maat",
+        "period": "neem contact op",
+        "description": "Voor grote organisaties",
+        "features": [
+          "Alles in Pro",
+          "Aangepaste integraties",
+          "Dedicated ondersteuning",
+          "SLA-garantie"
+        ]
+      }
+    },
+    "cta": "Start gratis",
+    "switch": "Start je gratis proefperiode",
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "canCancel": "Kan ik op elk moment opzeggen?",
+      "canCancelAnswer": "Ja, je kunt je abonnement op elk moment opzeggen. Geen vragen gesteld.",
+      "refund": "Wat is jullie restitutiebeleid?",
+      "refundAnswer": "We bieden een 30-dagen geld-terug garantie. Als je niet tevreden bent, restitueren we."
+    }
+  },
+  "footer": {
+    "description": "Samen betere producten bouwen.",
+    "rights": "Alle rechten voorbehouden",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "support": "Ondersteuning"
+  },
+  "websiteBuilder": {
+    "title": "Website Builder",
+    "subtitle": "Maak je eigen website in minuten",
+    "createProject": "Nieuw Project",
+    "myProjects": "Mijn Websites",
+    "templates": "Templates",
+    "chooseTemplate": "Kies een Template",
+    "projectName": "Projectnaam",
+    "projectDescription": "Projectbeschrijving (optioneel)",
+    "dashboard": {
+      "title": "Mijn Websites",
+      "noProjects": "Je hebt nog geen websites.",
+      "createFirst": "Maak je eerste website",
+      "published": "Gepubliceerd",
+      "draft": "Concept",
+      "archive": "Gearchiveerd"
+    },
+    "editor": {
+      "title": "Bewerk Website",
+      "preview": "Voorbeeld",
+      "pages": "Pagina's",
+      "addPage": "Pagina toevoegen",
+      "editPage": "Bewerken",
+      "deletePage": "Verwijderen",
+      "publish": "Publiceren",
+      "unpublish": "Depubliceren",
+      "settings": "Instellingen",
+      "pageTitle": "Paginatitel",
+      "pageSlug": "URL slug",
+      "pageType": "Paginatype",
+      "pageContent": "Paginainhoud",
+      "saveChanges": "Wijzigingen opslaan",
+      "confirmDelete": "Weet je zeker dat je deze pagina wilt verwijderen?",
+      "noPages": "Nog geen pagina's. Maak je eerste pagina."
+    },
+    "categories": {
+      "all": "Alle Templates",
+      "info": "Informatief",
+      "business": "Zakelijk",
+      "webshop": "Webshop",
+      "lifestyle": "Lifestyle",
+      "creative": "Creatief"
+    },
+    "pageTypes": {
+      "home": "Homepagina",
+      "about": "Over ons / Over mij",
+      "contact": "Contact",
+      "services": "Diensten",
+      "blog": "Blog",
+      "pricing": "Prijzen",
+      "gallery": "Galerie / Producten",
+      "custom": "Aangepast"
+    },
+    "errors": {
+      "projectNameRequired": "Projectnaam is verplicht",
+      "titleRequired": "Titel is verplicht",
+      "slugRequired": "Slug is verplicht",
+      "slugInvalid": "Slug mag alleen letters, cijfers en streepjes bevatten",
+      "pageExists": "Deze pagina bestaat al"
+    }
+  }
+}

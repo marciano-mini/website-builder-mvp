@@ -1,0 +1,206 @@
+{
+  "common": {
+    "appName": "Your App",
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "confirm": "Confirm"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign up",
+    "logout": "Log out",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": {
+      "title": "Sign in to your account",
+      "subtitle": "Enter your email and password to access your account",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot your password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "signInButton": "Sign in",
+      "rememberMe": "Remember me"
+    },
+    "signup": {
+      "title": "Create a new account",
+      "subtitle": "It's free and takes less than a minute",
+      "name": "Full name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Create a password",
+      "confirmPassword": "Confirm password",
+      "passwordHint": "At least 8 characters",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "agreeTerms": "I agree to the",
+      "terms": "Terms of Service",
+      "and": "and",
+      "privacy": "Privacy Policy"
+    },
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "emailExists": "An account with this email already exists",
+      "weakPassword": "Password is too weak",
+      "passwordMismatch": "Passwords do not match",
+      "verificationRequired": "Email verification required"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "stats": {
+      "title": "Overview",
+      "activeUsers": "Active Users",
+      "revenue": "Revenue",
+      "subscriptions": "Subscriptions",
+      "growth": "Growth"
+    }
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Choose the plan that works for you",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 20%",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "€0",
+        "period": "forever",
+        "description": "For individuals getting started",
+        "features": [
+          "1 project",
+          "Basic features",
+          "Community support"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "€29",
+        "period": "per month",
+        "description": "For professionals and small teams",
+        "features": [
+          "Unlimited projects",
+          "All features",
+          "Priority support",
+          "Advanced analytics"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "period": "contact us",
+        "description": "For large organizations",
+        "features": [
+          "Everything in Pro",
+          "Custom integrations",
+          "Dedicated support",
+          "SLA guarantee"
+        ]
+      }
+    },
+    "cta": "Get started",
+    "switch": "Start your free trial",
+    "faq": {
+      "title": "Frequently asked questions",
+      "canCancel": "Can I cancel anytime?",
+      "canCancelAnswer": "Yes, you can cancel your subscription at any time. No questions asked.",
+      "refund": "What's your refund policy?",
+      "refundAnswer": "We offer a 30-day money-back guarantee. If you're not satisfied, we'll refund you."
+    }
+  },
+  "footer": {
+    "description": "Building better products, together.",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support"
+  },
+  "websiteBuilder": {
+    "title": "Website Builder",
+    "subtitle": "Create your own website in minutes",
+    "createProject": "New Project",
+    "myProjects": "My Websites",
+    "templates": "Templates",
+    "chooseTemplate": "Choose a Template",
+    "projectName": "Project Name",
+    "projectDescription": "Project Description (optional)",
+    "dashboard": {
+      "title": "My Websites",
+      "noProjects": "You don't have any websites yet.",
+      "createFirst": "Create your first website",
+      "published": "Published",
+      "draft": "Draft",
+      "archive": "Archived"
+    },
+    "editor": {
+      "title": "Edit Website",
+      "preview": "Preview",
+      "pages": "Pages",
+      "addPage": "Add Page",
+      "editPage": "Edit",
+      "deletePage": "Delete",
+      "publish": "Publish",
+      "unpublish": "Unpublish",
+      "settings": "Settings",
+      "pageTitle": "Page Title",
+      "pageSlug": "URL Slug",
+      "pageType": "Page Type",
+      "pageContent": "Page Content",
+      "saveChanges": "Save Changes",
+      "confirmDelete": "Are you sure you want to delete this page?",
+      "noPages": "No pages yet. Create your first page."
+    },
+    "categories": {
+      "all": "All Templates",
+      "info": "Info",
+      "business": "Business",
+      "webshop": "Webshop",
+      "lifestyle": "Lifestyle",
+      "creative": "Creative"
+    },
+    "pageTypes": {
+      "home": "Home Page",
+      "about": "About Us / About Me",
+      "contact": "Contact",
+      "services": "Services",
+      "blog": "Blog",
+      "pricing": "Pricing",
+      "gallery": "Gallery / Products",
+      "custom": "Custom"
+    },
+    "errors": {
+      "projectNameRequired": "Project name is required",
+      "titleRequired": "Title is required",
+      "slugRequired": "Slug is required",
+      "slugInvalid": "Slug can only contain letters, numbers, and hyphens",
+      "pageExists": "This page already exists"
+    }
+  }
+}
