@@ -19,9 +19,9 @@ interface ProjectListProps {
   projects: Project[]
   onCreateClick: () => void
   onEditClick: (projectId: string) => void
-  onPublishClick: (projectId: string) => void
-  onUnpublishClick: (projectId: string) => void
-  onDeleteClick: (projectId: string) => void
+  onPublishClick: (projectId: string) => Promise<void>
+  onUnpublishClick: (projectId: string) => Promise<void>
+  onDeleteClick: (projectId: string) => Promise<void>
 }
 
 export default function ProjectList({
