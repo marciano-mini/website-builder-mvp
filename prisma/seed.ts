@@ -1,7 +1,12 @@
+import { config } from 'dotenv'
 import { PrismaClient } from '@prisma/client'
 import { industryTemplates } from '../lib/templates/industry-templates'
 
-const prisma = new PrismaClient()
+config({ path: '.env.local' })
+
+const prisma = new PrismaClient({
+  log: ['query', 'error', 'warn'],
+})
 
 async function main() {
   console.log('🌱 Seeding 15 industry templates...')
