@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import "../../styles/mobile.css";
-import MobileRedirect from "@/components/MobileRedirect";
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Website Builder",
